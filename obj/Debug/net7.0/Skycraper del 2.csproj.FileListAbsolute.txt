@@ -1,0 +1,14 @@
+C:\Users\DaciBaci\source\repos\Skycraper del 2\bin\Debug\net7.0\Skycraper del 2.exe
+C:\Users\DaciBaci\source\repos\Skycraper del 2\bin\Debug\net7.0\Skycraper del 2.deps.json
+C:\Users\DaciBaci\source\repos\Skycraper del 2\bin\Debug\net7.0\Skycraper del 2.runtimeconfig.json
+C:\Users\DaciBaci\source\repos\Skycraper del 2\bin\Debug\net7.0\Skycraper del 2.dll
+C:\Users\DaciBaci\source\repos\Skycraper del 2\bin\Debug\net7.0\Skycraper del 2.pdb
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\Skycraper del 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\Skycraper del 2.AssemblyInfoInputs.cache
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\Skycraper del 2.AssemblyInfo.cs
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\Skycraper del 2.csproj.CoreCompileInputs.cache
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\Skycraper del 2.dll
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\refint\Skycraper del 2.dll
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\Skycraper del 2.pdb
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\Skycraper del 2.genruntimeconfig.cache
+C:\Users\DaciBaci\source\repos\Skycraper del 2\obj\Debug\net7.0\ref\Skycraper del 2.dll
